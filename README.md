@@ -21,5 +21,5 @@ const responnse={
 <img src="https://github-readme-stats.vercel.app/api?username=Ali-Jalali-Farahani&show_icons=true"/>
 
 **social**
-<a href="https://instagram.com/rad_front"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+
+<a href="https://t.me/Ali_JF80"><img width="50px" height="50px"  align="left" src="https://github.com/Ali-Jalali-Farahani/Ali-Jalali-Farahani/blob/main/icons8-telegram-logo-48.png" alt="Telegram" /></a>
