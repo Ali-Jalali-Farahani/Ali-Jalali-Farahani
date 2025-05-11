@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Jalali-Farahani&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Jalali-Farahani&show_icons=true" align="center"/>
