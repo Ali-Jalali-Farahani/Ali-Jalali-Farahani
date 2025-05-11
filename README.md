@@ -19,7 +19,7 @@ const response={
 <br/>
 <br/>
 <a href="https://ali-jalali-farahani.github.io/CV/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-ali_jalali_farahani.github.io/CV-blue?style=flat&logo=google-chrome" />
 </a>
 
 # skills
