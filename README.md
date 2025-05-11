@@ -18,7 +18,7 @@ const response={
 -💻 a junior frontend developer
 <br/>
 <br/>
-<a href="https://sabzlearn.ir/">
+<a href="https://ali-jalali-farahani.github.io/CV/">
     <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
 </a>
 
