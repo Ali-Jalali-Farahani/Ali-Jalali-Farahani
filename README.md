@@ -27,8 +27,19 @@ const response={
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 <br/>
+<br/>
+
+# Learn in near near future
+![next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+<br/>
+
+<!-- # Learn after mastering frontend in 3 months
+![golang](https://img.shields.io/badge/Golang-007d9c?style=for-the-badge&logo=go&logoColor=white)
+ or 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) 
+<br/>
+<br/> -->
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Ali-Jalali-Farahani&show_icons=true" align="right"/>
