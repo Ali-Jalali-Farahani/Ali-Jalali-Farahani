@@ -41,17 +41,20 @@ const response={
 <br/>
 <br/> -->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Jalali-Farahani&show_icons=true" align="right"/>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Jalali-Farahani)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Jalali-Farahani)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Jalali-Farahani&show_icons=true" align="left"/>
 <br/>
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 **social**
 
