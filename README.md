@@ -5,7 +5,7 @@
 
 ```javascript
 const response={
-  status:202,
+  status:200,
   data:{
     name: "Ali Jalali Farahani",
     birthday: "29 september",
